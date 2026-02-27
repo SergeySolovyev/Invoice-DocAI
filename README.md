@@ -25,3 +25,10 @@ Repository for the paper:
 ## Citation
 
 Use [CITATION.cff](github_article_materials/CITATION.cff) for citation metadata.
+
+## DOI
+
+Related preprint DOI provided by the author:
+
+- Solovev, S. (2026). *Machine Learning–Based Vulnerability Detection in Ethereum Smart Contracts via EVM Bytecode Feature Engineering (Preprint).* Figshare.
+- DOI: https://doi.org/10.6084/m9.figshare.31429971

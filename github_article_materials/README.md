@@ -35,3 +35,10 @@ Quick code mirror for readers is in:
 
 - Current published numbers are **quick-mode** results (80 validation receipts).
 - Some legacy top-level docs in repository may reference older archive states; this folder reflects the current `invoice_docai/v2` state.
+
+## DOI
+
+Additional DOI provided by the author:
+
+- Solovev, S. (2026). *Machine Learning–Based Vulnerability Detection in Ethereum Smart Contracts via EVM Bytecode Feature Engineering (Preprint).* Figshare.
+- DOI: https://doi.org/10.6084/m9.figshare.31429971

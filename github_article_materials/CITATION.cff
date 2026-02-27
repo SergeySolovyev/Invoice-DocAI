@@ -18,3 +18,15 @@ keywords:
   - Donut
   - SROIE
 license: "MIT"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.31429971"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Solovev
+      given-names: Sergei
+  year: 2026
+  title: "Machine Learning–Based Vulnerability Detection in Ethereum Smart Contracts via EVM Bytecode Feature Engineering (Preprint)"
+  publisher: "Figshare"
+  doi: "10.6084/m9.figshare.31429971"
