@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "OCR-Based vs. End-to-End Transformer Pipelines for Receipt Information Extraction: A Comparative Study on SROIE 2019"
+message: "If you use this work, please cite it using this metadata."
+type: article
+authors:
+  - family-names: Solovev
+    given-names: Sergei
+    email: sesesolovev@edu.hse.ru
+repository-code: "https://github.com/SergeySolovyev/Invoice-DocAI"
+abstract: >-
+  Comparative study of OCR-based and end-to-end transformer pipelines
+  for receipt information extraction (Vendor, Date, Total) on SROIE,
+  including robustness under messenger-grade corruption.
+keywords:
+  - document ai
+  - receipt information extraction
+  - OCR
+  - Donut
+  - SROIE
+license: "MIT"
